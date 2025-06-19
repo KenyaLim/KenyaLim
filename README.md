@@ -1,107 +1,56 @@
-<!--
-**KenyaLim/KenyaLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hi%20I'm%20Kenya!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there, I'm Kenya 👋
-
-🎓 I'm an Informatics student, passionate about both technology and creative communication.  
-💡 I love building useful tools, exploring AI, and making tech more human-friendly through design and storytelling.
+<h2 align="center">✨ Informatics Student | 💡 Creative Tech Explorer | 📣 Communication Enthusiast</h2>
 
 ---
 
-### 🔧 Tech Stack & Tools
-- 💻 Languages: Python, PHP, JavaScript
-- 🌐 Web: HTML, CSS, Bootstrap
-- 📊 Data: MySQL, JSON
-- 🛠️ Tools: Git, VS Code, Canva, Figma, ChatGPT
+### 🌸 About Me
+Hi! I'm **Kenya Syalwa Arifia**, a 21 y.o Informatics student from Samarinda, Indonesia 🇮🇩.  
+I love mixing tech and creativity—whether it’s building simple web apps, crafting chatbot scripts, or designing soft-themed visuals.
+
+- 🎓 Currently studying Informatics @ [Your University]
+- 🌱 Learning more about: Web Dev, AI, UI/UX, and Marketing
+- 🌍 Passionate about: Communication, Clean Design, & Soft Aesthetics
 
 ---
 
-### ✍️ Ongoing Projects
-- 🛒 **Shopping List Web App** (PHP + Bootstrap)
-- 🤖 **Weather Chatbot** – Weather info bot with custom 3D logo and narration
-- 🔐 **Malware Research** – Perfctl analysis presentation
+### 🛠 Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
-- 📧 Email: kenyasyalwa@email.com
-- 💼 LinkedIn: [linkedin.com/in/kenyasyalwa](https://linkedin.com/in/kenyasyalwa)
-- 🗂️ Portfolio / Website: [yourwebsite.com](#) *(optional)*
+### 📌 Featured Projects
+
+- 🛒 **Shopping List Web App** — PHP + Bootstrap CRUD app for daily tasks
+- 🌦️ **WeatherBot** — Chatbot with 3D logo, English script & narration
+- 🔐 **Malware Analysis: Perfctl** — Group presentation on OS-based malware
+- 📝 **Cybersecurity Webinar Docs** — Wrote summary & email follow-up
 
 ---
 
-# Hi, I'm Kenya Syalwa 🌸💻
+### 📬 Let's Connect!
 
-🚀 Informatics student | 💡 Creative tech explorer | ✍️ Storyteller in code & content
-
----
-
-## 🌼 About Me
-
-name: Kenya Syalwa Arifia
-from: Samarinda, Indonesia 🇮🇩
-role: Informatics Student 👩‍💻
-dream: Bridging tech + creativity
-style: Soft colors, sharp logic 🌸💙
-
-I'm currently diving deep into:
-
-* Web Development (PHP, HTML, Bootstrap)
-* Data & Logic (Python, SQL, Regex)
-* Content Creation (scripts, branding, storytelling)
+- 💼 [LinkedIn](https://linkedin.com/in/kenyasyalwa)
+- 📧 kenya.syalwa@email.com
+- 💻 [GitHub](https://github.com/kenyasyalwa)
 
 ---
 
-## 🧠 What I Can Do
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenyasyalwa&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyasyalwa&layout=compact&theme=tokyonight" />
+</p>
 
-* 🎨 Design + Branding: Canva, Figma (basic), 3D logo creation
-* 🛠 Web Dev: CRUD apps, form handling, session management
-* 📢 Communication: MC bilingual, event recaps & email writing
-* 💬 Languages: Bahasa (Native), English (TOEFL 533)
-
----
-
-## 🔧 Tech & Tools
-
-* 🐍 Python
-* 🐘 PHP
-* 🖌️ HTML & CSS
-* 💜 Bootstrap
-* 🎨 Canva, Figma (basic)
-* 🧠 ChatGPT
-* 🛠️ Git, VS Code
-
----
-
-## 📂 Featured Projects
-
-* 🛒 Shopping List App – PHP + Bootstrap app with CRUD features
-* 🌦️ WeatherBot – Chatbot with 3D logo & English narration
-* 🔐 Malware Research – Perfctl analysis & presentation
-* 📄 Cybersecurity Webinar Notes – Formal recap + follow-up email
-
----
-
-## 📬 Let's Connect!
-
-* LinkedIn: [linkedin.com/in/kenyasyalwa](https://linkedin.com/in/kenyasyalwa)
-* Email: [kenya.syalwa@email.com](mailto:kenya.syalwa@email.com)
-* GitHub: [github.com/kenyasyalwa](https://github.com/kenyasyalwa)
-
----
-
-⭐ *"Let’s turn ideas into code, and code into impact."*
-
----
+<p align="center"><i>"Let’s turn ideas into code, and code into impact."</i></p>
