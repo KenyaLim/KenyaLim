@@ -39,18 +39,10 @@ I love mixing tech and creativity—whether it’s building simple web apps, cra
 
 ---
 
-### 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/kenyasyalwa)
-- 📧 kenya.syalwa@email.com
-- 💻 [GitHub](https://github.com/kenyasyalwa)
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyasyalwa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenyaLim&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyasyalwa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyaLim&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center"><i>"Let’s turn ideas into code, and code into impact."</i></p>
