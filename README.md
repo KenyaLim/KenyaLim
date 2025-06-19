@@ -7,10 +7,10 @@
 ---
 
 ### 🌸 About Me
-Hi! I'm **Kenya Syalwa Arifia**, a 21 y.o Informatics student from Samarinda, Indonesia 🇮🇩.  
+Hi! I'm **Kenya Syalwa Arifia**,
 I love mixing tech and creativity—whether it’s building simple web apps, crafting chatbot scripts, or designing soft-themed visuals.
 
-- 🎓 Currently studying Informatics @ [Your University]
+- 🎓 Currently studying Informatics
 - 🌱 Learning more about: Web Dev, AI, UI/UX, and Marketing
 - 🌍 Passionate about: Communication, Clean Design, & Soft Aesthetics
 
@@ -35,8 +35,6 @@ I love mixing tech and creativity—whether it’s building simple web apps, cra
 - 🛒 **Shopping List Web App** — PHP + Bootstrap CRUD app for daily tasks
 - 🌦️ **WeatherBot** — Chatbot with 3D logo, English script & narration
 - 🔐 **Malware Analysis: Perfctl** — Group presentation on OS-based malware
-- 📝 **Cybersecurity Webinar Docs** — Wrote summary & email follow-up
-
 ---
 
 <p align="center">
