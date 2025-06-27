@@ -34,7 +34,6 @@ I love mixing tech and creativity—whether it’s building simple web apps, cra
 
 - 🛒 **Shopping List Web App** — PHP + Bootstrap CRUD app for daily tasks
 - 🌦️ **WeatherBot** — Chatbot with 3D logo, English script & narration
-- 🔐 **Malware Analysis: Perfctl** — Group presentation on OS-based malware
 ---
 
 <p align="center">
