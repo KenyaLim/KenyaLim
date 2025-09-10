@@ -2,19 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hi%20I'm%20Kenya!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">✨ Informatics Student | 💡 Creative Tech Explorer | 📣 Communication Enthusiast</h2>
+<h2 align="center">✨ Informatics Student</h2>
 
 ---
 
 ### 🌸 About Me
 Hi! I'm **Kenya Syalwa Arifia**,
-I love mixing tech and creativity—whether it’s building simple web apps, crafting chatbot scripts, or designing soft-themed visuals.
-
+I love mixing tech and creativity—whether it’s building simple web apps or crafting chatbot scripts.
 - 🎓 Currently studying Informatics
-- 🌱 Learning more about: Web Dev, AI, UI/UX, and Marketing
-- 🌍 Passionate about: Communication, Clean Design, & Soft Aesthetics
 
----
 
 ### 🛠 Tech & Tools
 
