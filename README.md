@@ -37,5 +37,3 @@ I love mixing tech and creativity—whether it’s building simple web apps or c
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyaLim&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center"><i>"Let’s turn ideas into code, and code into impact."</i></p>
