@@ -57,8 +57,8 @@ I love building simple web applications, experimenting with UI, and creating cha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenyaLim&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyaLim&layout=compact&theme=tokyonight" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=kenyalim&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyalim&layout=compact&theme=tokyonight" />
 </p>
 
 ---
