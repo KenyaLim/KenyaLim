@@ -31,8 +31,6 @@
 <div align="center">
 <img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-
-
 🌸 About Me
 
 I'm Kenya Syalwa Arifia, an Informatics student passionate about Software Engineering and Creative Design.
@@ -40,10 +38,6 @@ I'm Kenya Syalwa Arifia, an Informatics student passionate about Software Engine
 I bridge the gap between complex logic and beautiful user interfaces.
 
 Currently focusing on:
-
-
-
-
 
 Backend Fundamentals • JavaScript Ecosystems • Clean UI Patterns
 
@@ -57,11 +51,6 @@ Backend Fundamentals • JavaScript Ecosystems • Clean UI Patterns
 <!-- Languages -->
 
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,php,python%26theme%3Dlight" />
-
-
-
-
-
 
 <!-- Tools & Design -->
 
@@ -100,11 +89,6 @@ HTML CSS JS
 <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dkenyalim%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" />
 </a>
-
-
-
-
-
 
 <!-- Stats Cards -->
 
