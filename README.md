@@ -80,16 +80,23 @@ I bridge the gap between complex logic and beautiful user interfaces.
 <img src="https://github-profile-trophy.vercel.app/?username=kenyalim&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
 </a>
 
-<!-- Stats Cards -->
+<br/>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=kenyalim&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f3" height="170" alt="Kenya's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyalim&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f3" height="170" alt="Kenya's Languages" />
-</div>
+<!-- Stats Cards using alternative working service -->
 
-<!-- Streak Stats -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenyalim&theme=github_dark" height="180" alt="Kenya's Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenyalim&theme=github_dark" height="180" alt="Kenya's Top Languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&theme=rose_pine&hide_border=true&background=fff0f3" alt="GitHub Streak" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenyalim&theme=github_dark" height="180" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kenyalim&theme=github_dark" height="180" alt="Productive Time" />
+</p>
+
+<!-- Streak Stats using working alternative endpoint -->
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kenyalim&theme=dark&hide_border=true&background=0D1117&stroke=FF69B4&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
 </div>
 
 <!-- Footer Decoration -->
