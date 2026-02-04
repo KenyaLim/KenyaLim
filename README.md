@@ -1,9 +1,3 @@
-<!-- Header with Waving Effect -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=Hello,%20I'm%20Kenya!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
-
 <!-- Dynamic Typing Effect -->
 
 <div align="center">
