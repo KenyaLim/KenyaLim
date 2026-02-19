@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F28EB5&center=true&vCenter=true&width=500&lines=Informatics+Student;Mixing+Logic+with+Creativity;Web+Developer+in+Training;UI/UX+Design+Enthusiast" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/gh-profile-clone/?username=kenyalim&style=flat&color=ff69b4&label=Profile+Views" />
-</div>
-
 <!-- Social Badges Row -->
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
 <a href="https://github.com/KenyaLim">
@@ -62,3 +58,6 @@ I bridge the gap between complex logic and beautiful user interfaces.
       <span style="background: #2f363d; padding: 4px 8px; border-radius: 4px; font-size: 12px; color: #8b949e;">MySQL</span>
     </div>
   </div>
+
+  <!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&theme=dark&hide_border=true&background=0D1117&stroke=FF69B4&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
