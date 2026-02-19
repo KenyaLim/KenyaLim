@@ -3,13 +3,6 @@
 <!-- Ghibli-style animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Where%20Logic%20Meets%20Magic%20✨&descAlignY=60&descSize=16" width="100%"/>
 
-<!-- Ghibli soot sprites / totoro gif -->
-<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
-
 <br/>
 
 <!-- Typing Effect -->
