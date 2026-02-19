@@ -1,77 +1,165 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Ghibli-style animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Where%20Logic%20Meets%20Magic%20✨&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D749067%26height%3D200%26section%3Dheader%26text%3DWelcome%2520to%2520Kenya%27s%2520Atelier%26fontSize%3D45%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dneutral" width="100%" />
+<!-- Ghibli soot sprites / totoro gif -->
+<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif" width="60" />
 
-<!-- Dynamic Typing Effect with Ghibli Palette -->
+<br/>
 
+<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DEB%2BGaramond%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D6B8E23%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DCrafting%2BDigital%2BMagic%3BInformatics%2BStudent%3BWeb%2BDeveloper%2Bin%2BTraining%3BUI/UX%2BDesign%2BEnthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&pause=1000&color=7FB069&center=true&vCenter=true&width=600&lines=🌿+Informatics+Student;🎨+Mixing+Logic+with+Creativity;🌸+Web+Developer+in+Training;🍃+UI%2FUX+Design+Enthusiast;✨+Inspired+by+the+Spirit+World" alt="Typing SVG" />
 </a>
 
-<!-- Floating Totoro GIF -->
+<br/>
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6M2MxdmN6bm8xdmN6bm8xdmN6bm8xdmN6bm8xdmN6bm8mZXA9YjZfcmVhbHRpbWVfaW5kZXgmY3Q9cw/13TxbvC8mRscqA/giphy.gif" width="120">
+<!-- Social Badges -->
+<a href="https://github.com/KenyaLim">
+  <img src="https://img.shields.io/badge/GitHub-2D5A27?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kenyasyalwa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Coding%20with%20Wonder-7FB069?style=for-the-badge&logo=leaf&logoColor=white" />
 
-🍃 "A Heart's a Heavy Burden" — Sophie Hatter
-
-I'm Kenya Syalwa Arifia, an Informatics student wandering through the enchanted forests of Software Engineering and Creative Design.
+<br/><br/>
 
 </div>
 
-<hr />
+---
 
-🌸 The Secret World of My Journey
-
-I bridge the gap between complex logic and beautiful user interfaces, much like a Ghibli film bridges reality and fantasy.
-
-🌱 Currently Cultivating: Advanced Backend Architectures & Micro-interactions.
-
-🎨 Creative Philosophy: Simplicity is the ultimate sophistication.
-
-🍄 Fun Fact: I believe every piece of code should feel as warm as a bakery in Kiki's Delivery Service.
-
+<!-- About Me Section -->
 <div align="center">
 
-🛠️ My Magical Satchel (Tech Stack)
+## 🌳 About Me — *A Traveler Between Two Worlds*
 
-<!-- Soft Theme Icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" align="right"/>
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,php,python,bootstrap,figma,canva,vscode,git,mysql,react%26theme%3Dlight" />
+</div>
 
-🏡 Featured Workshops (Projects)
+> *"I always think I can fly, I can dream..."* — Nausicaä of the Valley of the Wind
 
-<table border="0">
+Hello! I'm **Kenya Syalwa Arifia** 🌿 — an Informatics student who sees every line of code as a spell and every interface as a doorway to another world. Like the heroes of Ghibli films, I believe in the magic of curiosity, the power of hard work, and the beauty of blending the logical with the imaginative.
+
+🌸 **Currently journeying through:** `Backend Fundamentals` • `Clean UI Patterns` • `Creative Design`  
+🍀 **Realm:** Software Engineering × Creative Design  
+🌾 **Spirit Animal:** A code-writing forest spirit 🌲
+
+<br/>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+## 🏯 My Magical Toolkit
+
+*"The spirits gave me these tools — I wield them with care."*
+
+**✨ Languages of the Spirit World**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" />
+
+**🌿 Enchanted Tools & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,git,mysql&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- Featured Projects -->
+<div align="center">
+
+## 📜 Tales From My Journey *(Featured Projects)*
+
+</div>
+
+<table align="center">
 <tr>
-<td width="50%">
-<div align="center">
-<h4>🛒 The Marketplace Outpost</h4>
-<p><i>A PHP + Bootstrap CRUD app for daily task management.</i></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dflat-square%26logo%3Dphp%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
-</div>
+<td width="50%" valign="top">
+
+### 🛒 &nbsp;Shopping List App
+> *"Like Chihiro organizing the bathhouse — every task in its place."*
+
+A full-featured **PHP + Bootstrap** CRUD application for daily task management. Clean, practical, and built with care.
+
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 </td>
-<td width="50%">
-<div align="center">
-<h4>📦 Delivery Dashboard</h4>
-<p><i>A specialized UI concept for logistics tracking.</i></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" />
-</div>
+<td width="50%" valign="top">
+
+### 🌿 &nbsp;More Adventures Ahead...
+> *"The journey has just begun, like Kiki on her first flight."*
+
+Currently crafting new spells in the workshop. Stay tuned for UI/UX experiments, web apps, and creative builds.
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-7FB069?style=flat-square)
+![Coming Soon](https://img.shields.io/badge/Soon-✨%20New%20Magic-E8A87C?style=flat-square)
+
 </td>
 </tr>
 </table>
 
-📊 Forest Vitality (GitHub Stats)
+<br/>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkenyalim%26show_icons%3Dtrue%26theme%3Dsoft-green%26hide_border%3Dtrue%26title_color%3D749067%26icon_color%3DE9C46A%26text_color%3D666" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkenyalim%26theme%3Dsoft-green%26hide_border%3Dtrue%26stroke%3D749067%26ring%3DE9C46A%26fire%3DF4A261" height="150" />
+---
 
-<!-- Activity Tracker -->
+<!-- GitHub Stats -->
+<div align="center">
 
-🌙 Midnight Coding Sessions
+## 🌙 Spirit Realm Statistics
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-art.gif" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=kenyalim&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=7FB069&icon_color=E8A87C&text_color=C4E8C2&border_radius=15" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyalim&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=7FB069&text_color=C4E8C2&border_radius=15" width="40%" />
 
-“Believe in your own spirit.” — The Cat Returns
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&theme=merko&hide_border=true&background=0D1117&stroke=7FB069&ring=E8A87C&fire=FF9E64&currStreakLabel=C4E8C2&sideLabels=C4E8C2&dates=7FB069&currStreakNum=E8A87C&sideNums=7FB069" width="55%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kenyalim&theme=merko&bg_color=0D1117&color=7FB069&line=E8A87C&point=C4E8C2&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- Quote / Footer -->
+<div align="center">
+
+## 🌾 A Ghibli Whisper to Live By
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
+
+<br/><br/>
+
+*"Once you've met someone, you never really forget them."* — Spirited Away ✨
+
+<br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=kenyalim&color=7FB069&style=for-the-badge&label=Spirit+Visitors" />
+
+<br/><br/>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
