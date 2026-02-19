@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DWelcome%2520to%2520Kenya%27s%2520Atelier%26fontSize%3D45%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dgradient" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D749067%26height%3D200%26section%3Dheader%26text%3DWelcome%2520to%2520Kenya%27s%2520Atelier%26fontSize%3D45%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dneutral" width="100%" />
 
 <!-- Dynamic Typing Effect with Ghibli Palette -->
 
@@ -48,14 +48,14 @@ I bridge the gap between complex logic and beautiful user interfaces, much like 
 <div align="center">
 <h4>🛒 The Marketplace Outpost</h4>
 <p><i>A PHP + Bootstrap CRUD app for daily task management.</i></p>
-<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dflat-square%26logo%3Dphp%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
 </div>
 </td>
 <td width="50%">
 <div align="center">
 <h4>📦 Delivery Dashboard</h4>
 <p><i>A specialized UI concept for logistics tracking.</i></p>
-<code>Figma</code> <code>CSS</code> <code>React</code>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" />
 </div>
 </td>
 </tr>
@@ -63,12 +63,8 @@ I bridge the gap between complex logic and beautiful user interfaces, much like 
 
 📊 Forest Vitality (GitHub Stats)
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkenyalim%26show_icons%3Dtrue%26theme%3Dsoft-green%26hide_border%3Dtrue%26title_color%3D749067%26icon_color%3DE9C46A" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkenyalim%26show_icons%3Dtrue%26theme%3Dsoft-green%26hide_border%3Dtrue%26title_color%3D749067%26icon_color%3DE9C46A%26text_color%3D666" height="150" />
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkenyalim%26theme%3Dsoft-green%26hide_border%3Dtrue%26stroke%3D749067%26ring%3DE9C46A%26fire%3DF4A261" height="150" />
-
-<!-- New Interactive Feature: Weekly Playlist -->
-
-📻 Listening to the Wind (Current Favorites)
 
 <!-- Activity Tracker -->
 
