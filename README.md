@@ -115,10 +115,6 @@ Currently crafting new spells in the workshop. Stay tuned for UI/UX experiments,
 
 ## 🌙 Spirit Realm Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=kenyalim&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=7FB069&icon_color=E8A87C&text_color=C4E8C2&border_radius=15" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyalim&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=7FB069&text_color=C4E8C2&border_radius=15" width="40%" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&theme=merko&hide_border=true&background=0D1117&stroke=7FB069&ring=E8A87C&fire=FF9E64&currStreakLabel=C4E8C2&sideLabels=C4E8C2&dates=7FB069&currStreakNum=E8A87C&sideNums=7FB069" width="55%" alt="GitHub Streak" />
