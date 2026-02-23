@@ -1,14 +1,8 @@
 <div align="center">
 
-<!-- Ghibli-style animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Where%20Logic%20Meets%20Magic%20✨&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
-
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&pause=1000&color=7FB069&center=true&vCenter=true&width=600&lines=🌿+Informatics+Student;🎨+Mixing+Logic+with+Creativity;🌸+Web+Developer+in+Training;🍃+UI%2FUX+Design+Enthusiast;✨+Inspired+by+the+Spirit+World" alt="Typing SVG" />
-</a>
 
 <br/>
 
@@ -133,15 +127,7 @@ Currently crafting new spells in the workshop. Stay tuned for UI/UX experiments,
 <!-- Quote / Footer -->
 <div align="center">
 
-## 🌾 A Ghibli Whisper to Live By
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
-
-<br/><br/>
-
-*"Once you've met someone, you never really forget them."* — Spirited Away ✨
-
-<br/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=kenyalim&color=7FB069&style=for-the-badge&label=Spirit+Visitors" />
