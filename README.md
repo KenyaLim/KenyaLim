@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Where%20Logic%20Meets%20Magic%20✨&descAlignY=60&descSize=16" width="100%"/>
-
 <br/>
 
 <br/>
