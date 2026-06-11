@@ -1,106 +1,286 @@
+<!-- PROFILE HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E8A2C8,C9956A,D4A0C0&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%E2%80%A2%20Software%20Enthusiast%20%E2%80%A2%20Creative%20Explorer&descAlignY=58&descSize=14)
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Kenya%20Syalwa%20Arifia&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Informatics%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=19&duration=3500&pause=900&color=E8A2C8&center=true&vCenter=true&width=520&lines=Building+things+that+work+%26+feel+good+%F0%9F%8C%B8;Backend+%26+Database+Explorer+%E2%9C%A8;UI+Design+Enthusiast+%F0%9F%8C%BF;Always+learning+something+new+%F0%9F%92%AB" />
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kenya+%F0%9F%91%8B;Informatics+Student+%F0%9F%8E%93;Unity+%2B+C%23+Game+Developer+%F0%9F%8E%AE;Data+Engineer+in+Progress+%F0%9F%93%8A;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-KenyaLim-E8A2C8?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0d14)](https://github.com/KenyaLim)
-[![Email](https://img.shields.io/badge/Email-kenyasyalwa%40gmail.com-C9956A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0d14)](mailto:kenyasyalwa@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=KenyaLim&style=flat-square&color=E8A2C8&label=profile+views"/>
+<!-- Visitor badge & wave animation -->
+![Profile Views](https://komarev.com/ghpvc/?username=kenyasyalwa&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/kenyasyalwa?style=for-the-badge&color=blueviolet)](https://github.com/kenyasyalwa)
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyaLim&layout=compact&hide_border=true&bg_color=1a0d14&title_color=E8A2C8&text_color=FDF6F0&langs_count=6"/>
+<!-- ABOUT ME SECTION -->
+<div align="center">
 
-### 🌸 About Me
+## 🌸 About Me
 
-```yaml
-name     : Kenya Syalwa Arifia
-role     : Informatics Student
-focus    : Backend · Database · UI/UX
-status   : Always learning 🌱
+</div>
+
+```javascript
+const kenya = {
+  name:       "Kenya Syalwa Arifia",
+  role:       "Informatics Student",
+  status:     "Open to Software Engineering & IT Internship 💼",
+  passions:   ["Game Dev 🎮", "Data Engineering 📊", "Networking 🌐", "Containerization 🐳"],
+  currentlyLearning: ["Advanced Unity & Game AI", "Docker Ecosystem", "BI & Dashboard Storytelling"],
+  funFact:    "I build games, pipelines, and networks — sometimes all in one week 🚀"
+};
 ```
 
-I'm drawn to the intersection of **clean code** and **thoughtful design** — building things that work *and* feel good to use.
-
-- 🔧 `Backend Development` — PHP, Python
-- 🗄️ `Database Systems` — MySQL
-- 🎨 `UI/UX Design` — Figma
-- 💡 Interests: Web Dev · Creative Design · Problem Solving
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td>🎓</td><td>Informatics Student</td>
+    <td>🎮</td><td>Building games with Unity & C#</td>
+  </tr>
+  <tr>
+    <td>💼</td><td>Seeking Software Engineering & IT Internship</td>
+    <td>🌐</td><td>Enterprise networking & infrastructure</td>
+  </tr>
+  <tr>
+    <td>📊</td><td>Data Warehouse, ETL & BI Dashboards</td>
+    <td>🐳</td><td>Containerization & orchestration</td>
+  </tr>
+  <tr>
+    <td>🎨</td><td>Digital content & social media</td>
+    <td>🚀</td><td>Learning by building from scratch</td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+### 💻 Programming & Development
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1a0d14?style=for-the-badge&logo=html5&logoColor=E8A2C8)
-![CSS3](https://img.shields.io/badge/CSS3-1a0d14?style=for-the-badge&logo=css3&logoColor=E8A2C8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0d14?style=for-the-badge&logo=javascript&logoColor=C9956A)
-![PHP](https://img.shields.io/badge/PHP-1a0d14?style=for-the-badge&logo=php&logoColor=E8A2C8)
-![Python](https://img.shields.io/badge/Python-1a0d14?style=for-the-badge&logo=python&logoColor=C9956A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0d14?style=for-the-badge&logo=bootstrap&logoColor=E8A2C8)
-![MySQL](https://img.shields.io/badge/MySQL-1a0d14?style=for-the-badge&logo=mysql&logoColor=E8A2C8)
-![Figma](https://img.shields.io/badge/Figma-1a0d14?style=for-the-badge&logo=figma&logoColor=C9956A)
-![Git](https://img.shields.io/badge/Git-1a0d14?style=for-the-badge&logo=git&logoColor=E8A2C8)
-![VSCode](https://img.shields.io/badge/VSCode-1a0d14?style=for-the-badge&logo=visualstudiocode&logoColor=E8A2C8)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### 🔧 Frameworks & Tools
+
+<div align="center">
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-FF6B35?style=for-the-badge&logo=data&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Backdrop CMS](https://img.shields.io/badge/Backdrop_CMS-0678BE?style=for-the-badge&logo=backdrop&logoColor=white)
+![Yacht](https://img.shields.io/badge/Yacht-1A2980?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🌐 Infrastructure & Networking
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-00A4EF?style=for-the-badge&logo=network&logoColor=white)
+![HSRP](https://img.shields.io/badge/HSRP-1BA1E2?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
 ---
 
-### 🛒 Featured Project
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎮 Game Museum Management
+> *2D simulation game — Unity + C#*
+
+A simulation where players manage museum visitors with NPC pathfinding, visitor flow mechanics, and daily progression systems.
+
+**Highlights:**
+- ✅ Unity gameplay systems & NPC pathfinding
+- ✅ Visitor flow mechanics & daily progression
+- ✅ Solo developer — built entirely from scratch
+- 🏷️ `Unity` `C#` `Game Design` `NPC AI`
+
+</td>
+
+<td width="50%">
+
+### 📊 Spotify Data Warehouse Dashboard
+> *End-to-end data engineering project*
+
+Full ETL pipeline from Spotify datasets to interactive BI dashboards with KPIs and drill-down analysis.
+
+**Highlights:**
+- ✅ ETL pipelines via Pentaho Data Integration
+- ✅ Data modeling & analytical transformation
+- ✅ KPI dashboards in Metabase
+- 🏷️ `Python` `SQL` `Pentaho` `Metabase`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%">
+
+### 🛒 Shopping List Web App
+> *CRUD web application — PHP + Bootstrap*
+
+Full-featured shopping list manager with create, read, update, delete functionality and modular architecture.
+
+**Highlights:**
+- ✅ Complete CRUD operations
+- ✅ Database connectivity
+- ✅ Modular component structure
+- 🏷️ `PHP` `Bootstrap` `MySQL` `HTML/CSS`
+
+</td>
+
+<td width="50%">
+
+### 🌐 Enterprise Networking Projects
+> *Hands-on networking simulations*
+
+Real-world networking implementations including VLAN trunking, DHCP, inter-VLAN routing, HSRP redundancy, and multi-router topologies.
+
+**Highlights:**
+- ✅ VLAN access & trunking config
+- ✅ DHCP services & Inter-VLAN routing
+- ✅ HSRP for high availability
+- 🏷️ `VLAN` `DHCP` `HSRP` `Cisco`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%">
+
+### 🐳 Docker Orchestration Review
+> *Container orchestration exploration*
+
+Deep dive into lightweight container management with Yacht, Docker image deployment, networking, volumes, and documented workflows.
+
+**Highlights:**
+- ✅ Yacht container management evaluation
+- ✅ Docker image deployment & config
+- ✅ Documented deployment workflows
+- 🏷️ `Docker` `Yacht` `Linux` `DevOps`
+
+</td>
+
+<td width="50%">
+
+### 📱 Social Media & Content Management
+> *Digital content strategy & execution*
+
+Planned, created, and managed digital content campaigns including Instagram feeds, visual storytelling, and audience engagement.
+
+**Highlights:**
+- ✅ Instagram feed & stories planning
+- ✅ Visual content creation
+- ✅ Coordinated publishing schedules
+- 🏷️ `Content Strategy` `Design` `Social Media`
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+<!-- CURRENTLY LEARNING -->
+## 🌱 Currently Learning
 
 <div align="center">
 
-| | **Shopping List App** |
-|:---:|:---|
-| 📌 | Full CRUD web application |
-| ⚙️ | PHP · MySQL · Bootstrap |
-| ✦ | Add, edit & delete shopping items |
-| 📱 | Responsive interface |
-| 🔗 | Database integration |
+```
+🎮 Advanced Unity Development          🤖 Game AI & NPC Behaviors
+📊 Data Engineering Practices          📈 Dashboard Design & Storytelling  
+🐳 Docker Ecosystem                    💡 Software Dev Best Practices
+```
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
 <div align="center">
-<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KenyaLim&bg_color=1a0d14&color=E8A2C8&line=C9956A&point=E8A2C8&area=true&hide_border=true" width="96%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenyasyalwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyasyalwa&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<br><br>
+</div>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KenyaLim&show_icons=true&hide_border=true&bg_color=1a0d14&title_color=E8A2C8&icon_color=C9956A&text_color=FDF6F0&ring_color=E8A2C8"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyaLim&layout=compact&hide_border=true&bg_color=1a0d14&title_color=E8A2C8&text_color=FDF6F0"/>
+<div align="center">
 
-<br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=kenyasyalwa&theme=tokyonight&hide_border=false)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=KenyaLim&hide_border=true&background=1a0d14&ring=E8A2C8&fire=C9956A&currStreakLabel=E8A2C8&sideLabels=E8A2C8&dates=9a7089&stroke=2d1a25"/>
+</div>
 
-<br><br>
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KenyaLim&theme=onestar&no-frame=true&column=4&margin-w=10"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenyasyalwa&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
+<!-- CONNECT -->
+## 💬 Let's Connect!
+
 <div align="center">
 
-*"Every expert was once a beginner."* 🌸
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=E8A2C8,C9956A,D4A0C0&height=100&section=footer)
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenyasyalwa/kenyasyalwa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenyasyalwa/kenyasyalwa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kenyasyalwa/kenyasyalwa/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+> *"Learning by building, improving through iteration."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn"/>
 
 </div>
