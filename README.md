@@ -4,7 +4,7 @@
 
 ### 🍰 About Me
 
-🎀 Kenya Lim | 🍓 Game & Web Dev | 🧁 Code + Dessert
+🎀 Kenya Lim | 🍓 Game & Web Dev 
 
 </div>
 
