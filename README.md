@@ -42,14 +42,6 @@
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenyalim&show_icons=true&locale=en&layout=compact&bg_color=45,2D000E,FF6B9D,FFB3C6&title_color=ffffff&text_color=ffffff&border_color=FF6B9D&border_radius=12" alt="top langs" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyalim&show_icons=true&locale=en&bg_color=45,2D000E,FF6B9D,FFB3C6&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=FF6B9D&border_radius=12" alt="github stats" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&background=45,2D000E,FF6B9D,FFB3C6&border=FF6B9D&stroke=ffffff&ring=ffffff&fire=FF4785&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF9EB5&sideLabels=FF6B9D&dates=FFB3C6&border_radius=12" alt="streak" />
 </p>
 
