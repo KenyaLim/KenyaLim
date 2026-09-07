@@ -42,7 +42,7 @@
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&background=45,2D000E,FF6B9D,FFB3C6&border=FF6B9D&stroke=ffffff&ring=ffffff&fire=FF4785&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF9EB5&sideLabels=FF6B9D&dates=FFB3C6&border_radius=12" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyalim&background=45%2C2D000E%2CFF6B9D%2CFFB3C6&border=FF6B9D&stroke=ffffff&ring=ffffff&fire=FF4785&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF9EB5&sideLabels=FF6B9D&dates=FFB3C6&border_radius=12&v=2" alt="streak" />
 </p>
 
 </div>
